@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calendar1.2</string>
+    <string name="title_activity_logged_in">Authenticated</string>
+    <string name="singup_button">Sing In</string>
+</resources>
